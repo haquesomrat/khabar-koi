@@ -3,7 +3,7 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
     margin: 0%;
 }
 .first-color{
@@ -49,6 +49,7 @@ p{
 .middle-text{
     text-align: center;
     margin: 0%;
+    font-weight: 700;
 }
 .recipes{
     text-align: center;
@@ -60,14 +61,48 @@ p{
     margin-right: 5%;
     padding-left: 10px;
     padding-right: 10px;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 5px 5px 5px gray;
     border-radius: 10px;
 }
 .space{
     padding-bottom: 90px;
 }
-#image-size{
-    width: 300px;
-    height: 300px;
+.img-padding{
+    padding: 2px;
+    margin: 10px;
+}
+.position1{
+    padding-right: 270px;
+}
+.position2{
+    padding-right: 150px;
+}
+.position3{
+    padding-left: 120px;
+}
+.followers-area{
+    width: 73%;
+    margin-left: 10%;
     margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+.footer-banner{
+    width: 83%;
+    background-color: black;
+    margin-left: 10%;
+    margin-top: 10px;
+    color: black;
+}
+.font-sixe{
+    color: white;
+
+}
+.orange-color{
+    color: orange;
+}
+.gray-color{
+    color: gray;
 }
